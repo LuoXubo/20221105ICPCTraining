@@ -1,0 +1,2 @@
+# 20221105ICPCTraining
+2021 ICPC Shenyang
